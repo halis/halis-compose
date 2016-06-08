@@ -1,7 +1,7 @@
 {
   "name": "halis-compose",
-  "version": "1.0.6",
-  "description": "foldl and foldr",
+  "version": "1.0.7",
+  "description": "Use foldr and foldl like a boss",
   "main": "index.js",
   "scripts": {
     "test": "clear && mocha \"test/**/*.js\""

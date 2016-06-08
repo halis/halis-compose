@@ -1,6 +1,5 @@
 # halis-compose
-
-> Use foldr and foldl like a boss
+> Use foldr and foldl to compose higher order functions like a boss
 
 ## Install
 
