@@ -1,6 +1,6 @@
 {
   "name": "halis-compose",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "description": "foldl and foldr",
   "main": "index.js",
   "scripts": {
@@ -22,5 +22,6 @@
   "devDependencies": {
     "chai": "^3.5.0",
     "mocha": "^2.5.3"
-  }
+  },
+  "main": "./src/compose.js"
 }

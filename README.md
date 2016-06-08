@@ -8,6 +8,12 @@
 npm install halis-compose --save
 ```
 
+## Unit Tests
+
+``` bash
+npm run test
+```
+
 ## Usage
 
 Minimal usage:
