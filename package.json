@@ -1,0 +1,21 @@
+{
+  "name": "halis-compose",
+  "version": "1.0.2",
+  "description": "foldl and foldr",
+  "main": "index.js",
+  "scripts": {
+    "test": "clear && mocha \"test/**/*.js\""
+  },
+  "author": "Chris Grimes",
+  "license": "MIT",
+  "keywords": [
+    "functional",
+    "compose",
+    "foldr",
+    "foldl"
+  ],
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  }
+}
