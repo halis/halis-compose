@@ -1,6 +1,6 @@
 {
   "name": "halis-compose",
-  "version": "1.0.9",
+  "version": "1.10.0",
   "description": "Use foldr and foldl to compose higher order functions like a boss",
   "scripts": {
     "test": "clear && mocha \"test/**/*.js\""
